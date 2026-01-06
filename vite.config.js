@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: 'home_page_c', 
 })
